@@ -14,6 +14,7 @@
 		45D77A802589E0E400A74782 /* PlayWithCommunicationDP.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 45D77A7E2589E0E400A74782 /* PlayWithCommunicationDP.xcdatamodeld */; };
 		45D77A822589E0EA00A74782 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45D77A812589E0EA00A74782 /* Assets.xcassets */; };
 		45D77A852589E0EA00A74782 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45D77A832589E0EA00A74782 /* LaunchScreen.storyboard */; };
+		45D77A8D2589E1EC00A74782 /* OptionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45D77A8C2589E1EC00A74782 /* OptionsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		45D77A812589E0EA00A74782 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		45D77A842589E0EA00A74782 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		45D77A862589E0EA00A74782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		45D77A8C2589E1EC00A74782 /* OptionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				45D77A832589E0EA00A74782 /* LaunchScreen.storyboard */,
 				45D77A862589E0EA00A74782 /* Info.plist */,
 				45D77A7E2589E0E400A74782 /* PlayWithCommunicationDP.xcdatamodeld */,
+				45D77A8C2589E1EC00A74782 /* OptionsViewController.swift */,
 			);
 			path = PlayWithCommunicationDP;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				45D77A7A2589E0E400A74782 /* ViewController.swift in Sources */,
 				45D77A762589E0E400A74782 /* AppDelegate.swift in Sources */,
 				45D77A782589E0E400A74782 /* SceneDelegate.swift in Sources */,
+				45D77A8D2589E1EC00A74782 /* OptionsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
